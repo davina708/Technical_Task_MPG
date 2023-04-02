@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1680456027570,
+	"update": {
+		"latest": "3.0.6",
+		"current": "3.0.5",
+		"type": "patch",
+		"name": "@ui5/cli"
+	}
+}

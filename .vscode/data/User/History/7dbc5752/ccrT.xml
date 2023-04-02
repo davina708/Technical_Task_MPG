@@ -1,0 +1,24 @@
+<mvc:View controllerName="project1.controller.View1" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc"
+displayBlock="true" xmlns="sap.m" xmlns:u="sap.ui.unified" xmlns:l="sap.ui.layout">
+<App>
+<pages>
+<Page title="{i18n>title}">
+<content>
+<Text text="Upload your PDF"/>
+<l:VerticalLayout>
+<u:FileUploader id="idfileUploader" accept=".pdf" sameFilenameAllowed="false" useMultipart="false" uploadUrl="/sap"
+placeholder="Choose your PDF" style="Emphasized"></u:FileUploader>
+<ui5-file-uploader hide-input>
+	<ui5-avatar icon="upload"></ui5-avatar>
+</ui5-file-uploader>
+
+<ui5-file-uploader hide-input>
+	<ui5-badge>Upload File</ui5-badge>
+</ui5-file-uploader>
+<Button text="Upload" press="uploadFile"/>
+</l:VerticalLayout>
+</content>
+</Page>
+</pages>
+</App>
+</mvc:View>

@@ -1,0 +1,1250 @@
+2023-03-30 09:27:28.635 [error] No bundle location found for extension vscode.emmet
+2023-03-30 09:27:28.635 [error] No bundle location found for extension vscode.html-language-features
+2023-03-30 09:27:28.635 [error] No bundle location found for extension SAPOSS.app-studio-toolkit
+2023-03-30 09:27:28.635 [error] No bundle location found for extension SAPOSS.code-snippet
+2023-03-30 09:27:28.635 [error] No bundle location found for extension SAPSE.fs-usage-popup-vscode-extensions
+2023-03-30 09:27:28.635 [error] No bundle location found for extension vscode.git-base
+2023-03-30 09:27:28.635 [error] No bundle location found for extension donjayamanne.githistory
+2023-03-30 09:27:28.635 [error] No bundle location found for extension eamodio.gitlens
+2023-03-30 09:27:28.635 [error] No bundle location found for extension SAPSE.lcap-task-contrib
+2023-03-30 09:27:28.635 [error] No bundle location found for extension SAP.vscode-watt-framework-extension
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPSE.sap-ux-application-modeler-extension
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPSE.sap-ux-help-extension
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPSE.sap-ux-service-modeler-extension
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPOS.yeoman-ui
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAP.vscode-bas-extension
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPOSS.vscode-dependencies-validation
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPOSS.vscode-deps-upgrade-tool
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPSE.vscode-node-version-check
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPSE.vscode-tasks-explorer-tasks-panel
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAP.vscode-wing-cf-tools
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAPSE.vscode-wing-expose-router-ports
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAP.vscode-wing-gerrit
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAP.vscode-wing-run-config
+2023-03-30 09:27:29.602 [error] No bundle location found for extension SAP.vscode-wing-welcome-screen
+2023-03-30 09:27:36.973 [error] No bundle location found for extension vscode.npm
+2023-03-30 09:27:37.359 [error] No bundle location found for extension vscode.git
+2023-03-30 09:27:37.359 [error] No bundle location found for extension SAP.mta-editor-vscode
+2023-03-30 09:27:37.359 [error] No bundle location found for extension SAP.sap-bas-vscode-w5g
+2023-03-30 09:27:37.749 [error] No bundle location found for extension SAP.vscode-bas-extensibility
+2023-03-30 09:27:37.749 [error] No bundle location found for extension SAPOSS.guided-development
+2023-03-30 09:27:38.676 [error] No bundle location found for extension SAPSE.vscode-wing-ui5-run
+2023-03-30 09:27:38.967 [error] No bundle location found for extension vscode.configuration-editing
+2023-03-30 09:27:39.016 [error] No bundle location found for extension SAPSE.vscode-mta-tools
+2023-03-30 09:27:39.016 [error] No bundle location found for extension SAP.ui5-visual-editor-vscode
+2023-03-30 09:27:39.298 [error] No bundle location found for extension vscode.merge-conflict
+2023-03-30 09:27:39.360 [error] No bundle location found for extension vscode.json-language-features
+2023-03-30 09:27:39.442 [error] No bundle location found for extension vscode.typescript-language-features
+2023-03-30 09:27:39.620 [error] No bundle location found for extension vscode.debug-auto-launch
+2023-03-30 09:27:39.934 [error] No bundle location found for extension SAPSE.cicd-extension
+2023-03-30 09:28:35.821 [error] No bundle location found for extension SAPSE.sap-ux-annotation-modeler-extension
+2023-03-30 09:28:35.821 [error] No bundle location found for extension SAPOSS.xml-toolkit
+2023-03-30 09:31:30.656 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:31:30.657 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:31:31.097 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:31:31.097 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:31:33.132 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:31:33.384 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:31:34.209 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:31:34.810 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:32:30.605 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:32:30.605 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:32:33.300 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:32:33.522 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:32:33.839 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:32:33.840 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:10.618 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:35:10.618 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:12.999 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:13.966 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:14.109 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:14.604 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:14.726 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:15.131 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:15.415 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:15.774 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:16.126 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:16.235 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:16.866 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:17.104 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:17.270 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:17.396 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:17.579 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:17.620 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:17.950 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:35:19.167 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:35:19.167 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:11.888 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:12.158 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:12.317 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:12.408 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:12.857 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:13.485 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:13.890 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:14.162 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:14.294 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:14.440 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:14.649 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:14.766 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:18.028 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:37:18.028 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:19.968 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:37:19.968 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:21.286 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:21.679 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:21.829 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:21.928 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:37:22.355 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:39:53.687 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:39:53.688 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:39:55.647 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:39:56.061 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:39:56.495 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:39:57.796 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:39:57.996 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:39:59.159 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:39:59.159 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:39:59.492 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:39:59.492 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:40:02.328 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:40:02.566 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:40:02.566 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:40:03.476 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:40:03.476 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:40:04.623 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:40:23.481 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:40:23.481 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:40:26.098 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:40:26.098 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:40:59.293 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:40:59.780 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:41:02.091 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:41:02.544 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:43:37.770 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:43:37.771 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 09:54:39.965 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 09:54:39.966 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:07:43.496 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:07:45.422 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:07:52.843 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:01.484 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:08:01.484 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:01.909 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:08:01.909 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:02.484 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:08:02.484 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:04.622 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:06.979 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:08:06.979 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:07.199 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:08:07.200 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:08.581 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:08:08.581 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:11.870 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:08:11.870 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:11.935 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:12.007 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:08:12.007 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:08:14.062 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:07.212 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:07.214 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:11.008 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:11.008 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:11.760 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:11.760 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:12.083 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:12.083 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:28.690 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:28.690 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:29.395 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:29.396 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:31.296 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:31.296 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:31.618 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:31.619 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:37.044 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:37.044 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:39.233 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:39.480 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:39.849 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:39.951 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:40.312 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:40.593 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:40.953 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:41.129 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:41.182 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:41.263 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:41.516 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:41.721 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:41.798 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:41.915 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:42.022 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:42.101 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:42.193 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:42.369 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:42.574 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:43.218 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:43.344 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:43.463 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:43.655 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:43.773 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:43.885 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:58.584 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:58.584 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:58.815 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:58.815 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:10:58.981 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:10:58.981 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:01.309 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:01.452 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:01.547 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:02.399 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:02.399 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:02.534 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:02.652 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:02.699 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:02.699 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:02.731 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:02.836 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:04.409 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:04.747 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:04.816 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:04.919 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:05.533 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:05.534 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:05.758 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:05.758 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:07.180 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:07.180 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:10.001 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:10.001 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:11.869 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:12.413 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:12.413 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:12.515 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:26.318 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:26.319 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:26.779 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:26.779 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:28.497 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:28.497 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:28.730 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:41.881 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:42.415 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:57.916 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:57.917 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:58.398 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:58.399 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:58.820 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:58.820 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:11:59.177 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:11:59.177 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:12:00.108 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:12:00.108 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:12:00.306 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:12:00.306 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:13:51.753 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:13:51.753 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:19.940 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:14:19.940 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:20.617 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:14:20.617 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:21.211 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:14:21.212 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:22.256 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:14:22.256 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:24.774 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:24.866 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:25.045 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:25.099 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:25.437 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:25.651 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:25.821 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:25.887 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:26.375 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:27.327 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:28.165 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:28.487 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:30.390 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:30.532 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:30.730 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:30.780 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:30.904 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:31.074 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:31.419 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:57.142 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:14:57.142 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:59.405 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:14:59.569 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:00.223 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:00.224 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:00.307 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:15:00.307 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:00.330 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:00.458 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:00.488 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:15:00.489 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:01.208 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:15:01.208 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:05.551 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:06.322 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:07.243 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:07.289 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:34.374 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:15:34.375 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:15:34.689 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:15:34.689 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:24:50.220 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:24:50.220 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:27:35.528 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:27:35.528 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:27:45.732 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:27:48.742 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:27:50.654 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:27:50.654 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:27:51.000 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:27:51.000 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:27:51.497 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:27:51.497 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:27:53.117 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:27:53.118 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:28:02.104 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:28:02.104 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:28:10.535 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:28:10.893 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:28:12.608 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:28:12.609 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:38:09.817 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:38:09.818 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:38:13.687 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:38:14.655 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:38:34.285 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 10:59:17.706 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 10:59:17.711 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:10:39.740 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 11:10:39.740 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:10:40.234 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 11:10:40.235 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:22:21.735 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 11:22:21.735 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:24.632 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:24.690 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:24.775 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:24.860 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:24.993 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:25.455 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:26.280 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:26.392 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:26.526 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:27.025 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:27.027 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:27.075 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:29.596 [error] Error: Request textDocument/generateTextEditForChange failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:26:50.496 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 11:26:50.496 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)
+2023-03-30 11:27:03.328 [error] [SAPSE.sap-ux-annotation-modeler-extension] provider FAILED
+2023-03-30 11:27:03.328 [error] Error: Request textDocument/getHoverAppendTrusted failed with message: Cannot convert undefined or null to object
+	at Xi (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:4:229)
+	at kn (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6919)
+	at Immediate.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.9.2/dist/extension.js:3:6766)
+	at processImmediate (node:internal/timers:464:21)

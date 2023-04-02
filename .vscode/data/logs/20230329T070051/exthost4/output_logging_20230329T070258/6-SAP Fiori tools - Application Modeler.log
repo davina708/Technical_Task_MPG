@@ -1,0 +1,389 @@
+07:03:01 [INFO] - Running activation sequence for Fiori tools - Application Modeler
+07:03:01 [INFO] - Configurations: 'sap.ux.applicationModeler.showJsonSchemas': false; isTheia(): false; isAppStudio(): true
+07:03:01 [INFO] - Register Fiori tools file system for configurations...
+07:03:01 [INFO] - ...Fiori tools file system registered in 0.768ms
+07:03:01 [INFO] - Register views for configurations...
+07:03:01 [INFO] - ...views for configurations registered in 1.432ms
+07:03:01 [INFO] - Register commands...
+07:03:01 [INFO] - ...commands registered in 4.273ms
+07:03:01 [INFO] - Activating sync module...
+07:03:01 [INFO] - Virtual file system ftfs initialized in 0.183ms
+07:03:01 [INFO] - Searching for projects in these workspace folders: 
+[ '/home/user' ]
+07:03:06 [INFO] - SAP UX projects found and added in 4553.867ms
+07:03:06 [INFO] - Start watching **/package.json
+07:03:06 [INFO] - package.json watched in 0.883ms
+07:03:06 [INFO] - Start watching for workspace folder changes
+07:03:06 [INFO] - Workspace folders watched in 0.464ms
+07:03:06 [INFO] - Configs watched in 0.179ms
+07:03:06 [INFO] - ...sync module activated in 4557.857ms
+07:03:06 [INFO] - Activating launch config integration
+07:03:06 [INFO] - Handler for Fiori launch configuration registered
+07:03:06 [INFO] - ...launch config integration activated in 0.903ms
+07:03:06 [INFO] - Activating migration module...
+07:03:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching for workspace folder changes'
+07:03:06 [INFO] - Workspace folders watched in 0.512ms
+07:03:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/package.json'
+07:03:06 [INFO] - package.json watched in 0.483ms
+07:03:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/pom.xml'
+07:03:06 [INFO] - pom.xml watched in 0.731ms
+07:03:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/neo-app.json'
+07:03:06 [INFO] - neo-app.json watched in 0.446ms
+07:03:06 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/manifest.json'
+07:03:06 [INFO] - manifest.json watched in 0.432ms
+07:03:07 [INFO] - ...migration module activated in 824.778ms
+07:03:07 [INFO] - activation sequence for Fiori tools - Application Modeler done in 5427.576ms
+07:04:22 [INFO] - Post application generation command received. New app root: /home/user/project1
+07:04:22 [INFO] - Starting application info for '/home/user/project1'
+07:04:24 [WARN] - Error during processing of application info for '/home/user/project1'. Error was: 
+[TypeError: The "path" argument must be of type string. Received undefined
+	at new NodeError (node:internal/errors:371:5)
+	at validateString (node:internal/validators:119:11)
+	at join (node:path:1172:7)
+	at a0e.readAppWithPages (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:1112:10066)
+	at getPages (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2709:189015)
+	at ge.t.appRoot (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:8119)
+	at getPropertySafely (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:6791)
+	at getApplicationInfo (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:8078)
+	at async aOe.sendApplicationInfoToWebapp (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:9870)] {
+  code: 'ERR_INVALID_ARG_TYPE'
+}
+07:04:24 [WARN] - Error during processing of application info for '/home/user/project1'. Error was: 
+[Error: Could not determine OData version from manifest.
+	at getOdataVersion (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2709:189376)
+	at ge.t.appRoot (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:8188)
+	at getPropertySafely (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:6791)
+	at getApplicationInfo (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:8181)
+	at async aOe.sendApplicationInfoToWebapp (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:9870)]
+07:04:24 [WARN] - Error during processing of application info for '/home/user/project1'. Error was: 
+[Error: Can't get main service from manifest.json of project 
+	at getServiceLinks (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2709:190712)
+	at ge.t.appRoot (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:8533)
+	at getPropertySafely (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:6791)
+	at getApplicationInfo (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:8521)
+	at async aOe.sendApplicationInfoToWebapp (/extbin/local/openvscode-server/extensions/sap-ux-application-modeler-extension-1.9.2/dist/extension-min.js:2711:9870)]
+07:04:24 [INFO] - Application information collected in 19.282ms
+07:04:24 [INFO] - App info for '/home/user/project1':
+ {
+  "appRoot": "/home/user/project1",
+  "backend": "EDMX Backend",
+  "commands": [
+    {
+      "tags": [
+        "SAP Fiori elements",
+        "SAPUI5 freestyle",
+        "SAPUI5 Extension",
+        "v2",
+        "v4",
+        "EDMX Backend",
+        "CAP Node.js"
+      ],
+      "commandLabel": "Preview Application",
+      "commandDescription": "Choose from start scripts to run the application preview.",
+      "commandIcon": "Preview",
+      "exec": {
+        "commandId": "sap.ux.pageEditor.previewExternal",
+        "argument": {
+          "fsPath": "/home/user/project1"
+        }
+      }
+    },
+    {
+      "tags": [
+        "SAP Fiori elements",
+        "SAPUI5 freestyle",
+        "v2",
+        "v4",
+        "EDMX Backend"
+      ],
+      "commandLabel": "Manage Service Models",
+      "commandDescription": "You can sync metadata.xml with backend.",
+      "commandIcon": "Association",
+      "exec": {
+        "commandId": "sap.ux.serviceModeler.openServiceMgr",
+        "argument": {
+          "fsPath": "/home/user/project1/webapp/manifest.json"
+        }
+      }
+    },
+    {
+      "tags": [
+        "SAP Fiori elements",
+        "SAPUI5 freestyle",
+        "SAPUI5 Extension",
+        "v2",
+        "v4",
+        "EDMX Backend",
+        "CAP Node.js"
+      ],
+      "commandLabel": "Add Deploy Config",
+      "commandDescription": "Add deploy configuration to the application.",
+      "commandIcon": "Add",
+      "exec": {
+        "commandId": "sap.ux.appGenerator.launchDeployConfig",
+        "argument": {
+          "fsPath": "/home/user/project1",
+          "arguments": {
+            "source": "application-info"
+          }
+        },
+        "onDone": {
+          "watchPath": "/home/user/project1/package.json",
+          "activity": "REFRESH"
+        }
+      }
+    },
+    {
+      "tags": [
+        "SAP Fiori elements",
+        "SAPUI5 freestyle",
+        "SAPUI5 Extension",
+        "v2",
+        "v4",
+        "EDMX Backend",
+        "CAP Node.js"
+      ],
+      "commandLabel": "Deploy Application",
+      "commandDescription": "Deploy the application according to the configuration by default stored in 'ui5-deploy.yaml'.",
+      "commandIcon": "World",
+      "exec": {
+        "cwd": "/home/user/project1",
+        "arguments": [
+          "npm",
+          "run",
+          "deploy"
+        ]
+      }
+    },
+    {
+      "tags": [
+        "SAP Fiori elements",
+        "SAPUI5 freestyle",
+        "SAPUI5 Extension",
+        "v2",
+        "v4",
+        "EDMX Backend",
+        "CAP Node.js",
+        "CAP Java"
+      ],
+      "commandLabel": "Check Node Modules",
+      "commandDescription": "Execute command that checks all node module dependencies for newer versions.",
+      "commandIcon": "Cleanup",
+      "exec": {
+        "cwd": "/home/user/project1",
+        "arguments": [
+          "npm",
+          "outdated"
+        ]
+      }
+    },
+    {
+      "tags": [
+        "SAP Fiori elements",
+        "SAPUI5 freestyle",
+        "v2",
+        "v4",
+        "EDMX Backend"
+      ],
+      "commandLabel": "Add Variants Config",
+      "commandDescription": "Add Configuration for Variants Creation.",
+      "commandIcon": "Edit",
+      "exec": {
+        "commandId": "sap.ux.applicationModeler.addVariantsConfig",
+        "argument": {
+          "fsPath": "/home/user/project1"
+        }
+      }
+    },
+    {
+      "tags": [
+        "SAP Fiori elements",
+        "SAPUI5 freestyle",
+        "v2",
+        "v4",
+        "EDMX Backend"
+      ],
+      "commandLabel": "Add Mockserver Config",
+      "commandDescription": "Add configuration for mockserver middleware",
+      "commandIcon": "Add",
+      "exec": {
+        "cwd": "/home/user/project1",
+        "arguments": [
+          "npx",
+          "--yes",
+          "@sap-ux/create",
+          "add",
+          "mockserver-config"
+        ]
+      }
+    },
+    {
+      "tags": [
+        "SAPUI5 freestyle",
+        "SAP Fiori elements",
+        "SAPUI5 Extension",
+        "v2",
+        "v4",
+        "EDMX Backend",
+        "CAP Java",
+        "CAP Node.js"
+      ],
+      "commandLabel": "Create Archive",
+      "commandDescription": "Zip the project excluding the node_modules for sharing (e.g. support cases)",
+      "commandIcon": "FolderOpened",
+      "exec": {
+        "commandId": "sap.ux.environmentcheck.archiveProject",
+        "argument": {
+          "fsPath": "/home/user/project1"
+        }
+      }
+    },
+    {
+      "tags": [
+        "SAPUI5 freestyle",
+        "SAP Fiori elements",
+        "SAPUI5 Extension",
+        "v2",
+        "v4",
+        "EDMX Backend",
+        "CAP Java",
+        "CAP Node.js"
+      ],
+      "commandLabel": "Change minUI5Version",
+      "commandDescription": "Change the minimum version of SAPUI5 that this application requires.",
+      "commandIcon": "Ui5",
+      "exec": {
+        "commandId": "sap.ux.applicationModeler.changeMinUI5Version",
+        "argument": {
+          "fsPath": "/home/user/project1"
+        }
+      }
+    }
+  ],
+  "description": "A Fiori application.",
+  "documentationLinks": [
+    {
+      "tags": [
+        "SAPUI5 freestyle"
+      ],
+      "text": "Developing apps",
+      "url": "https://ui5.sap.com/#/topic/23cfd955f58142389fa7c9097e11559c"
+    },
+    {
+      "tags": [
+        "EDMX Backendv2",
+        "EDMX Backendv4",
+        "CAP Node.jsv4",
+        "CAP Javav4",
+        "SAPUI5 freestyle"
+      ],
+      "text": "SAP Fiori tools Community",
+      "url": "https://answers.sap.com/tags/73555000100800002345"
+    },
+    {
+      "tags": [
+        "EDMX Backendv2",
+        "EDMX Backendv4",
+        "CAP Node.jsv4",
+        "CAP Javav4",
+        "SAPUI5 freestyle"
+      ],
+      "text": "SAPUI5 Help",
+      "url": "https://sapui5.hana.ondemand.com/#/topic"
+    },
+    {
+      "tags": [
+        "EDMX Backendv2",
+        "EDMX Backendv4",
+        "CAP Node.jsv4",
+        "CAP Javav4",
+        "SAPUI5 freestyle"
+      ],
+      "text": "SAP Fiori tools Help",
+      "url": "https://help.sap.com/viewer/product/SAP_FIORI_tools/Latest/en-US"
+    },
+    {
+      "tags": [
+        "EDMX Backendv2",
+        "EDMX Backendv4",
+        "CAP Node.jsv4",
+        "CAP Javav4",
+        "SAPUI5 freestyle"
+      ],
+      "text": "SAP Fiori Design Guidelines",
+      "url": "https://experience.sap.com/fiori-design-web/"
+    },
+    {
+      "tags": [
+        "EDMX Backendv2",
+        "EDMX Backendv4",
+        "CAP Node.jsv4",
+        "CAP Javav4",
+        "SAPUI5 freestyle"
+      ],
+      "text": "Contact Support",
+      "url": "https://help.sap.com/viewer/1bb01966b27a429ebf62fa2e45354fea/Latest/en-US"
+    }
+  ],
+  "fileLinks": [
+    {
+      "commandLabel": "package.json",
+      "commandDescription": "Show file package.json in text editor.",
+      "commandIcon": "Edit",
+      "exec": {
+        "commandId": "sap.ux.applicationModeler.configExplorer.showFile",
+        "argument": {
+          "uri": {
+            "$mid": 1,
+            "path": "/home/user/project1/package.json",
+            "scheme": "file"
+          }
+        }
+      }
+    },
+    {
+      "commandLabel": "manifest.json",
+      "commandDescription": "Show file manifest.json in text editor.",
+      "commandIcon": "Edit",
+      "exec": {
+        "commandId": "sap.ux.applicationModeler.configExplorer.showFile",
+        "argument": {
+          "uri": {
+            "$mid": 1,
+            "path": "/home/user/project1/webapp/manifest.json",
+            "scheme": "file"
+          }
+        }
+      }
+    }
+  ],
+  "location": "/home/user/project1",
+  "minui5version": "1.112.1",
+  "name": "project1",
+  "namespace": "",
+  "odataversion": "",
+  "pages": [],
+  "projectRoot": "/home/user/project1",
+  "serviceLinks": [],
+  "status": [],
+  "title": "App Title",
+  "type": "SAPUI5 freestyle",
+  "capProjectType": ""
+}
+07:04:24 [INFO] - App status for '/home/user/project1':
+ [
+  {
+    "statusIcon": "Success",
+    "description": "Latest version of node module '@sap/ux-ui5-tooling@1.9.2' installed."
+  }
+]
+07:04:40 [INFO] - Trying to execute command 'Preview Application'. Command info {"commandId":"sap.ux.pageEditor.previewExternal","argument":{"fsPath":"/home/user/project1"}}
+07:06:17 [INFO] - Trying to execute command 'Preview Application'. Command info {"commandId":"sap.ux.pageEditor.previewExternal","argument":{"fsPath":"/home/user/project1"}}
+07:07:08 [INFO] - Link with url 'https://sapui5.hana.ondemand.com/#/topic' clicked.
+07:08:04 [INFO] - Link with url 'https://ui5.sap.com/#/topic/23cfd955f58142389fa7c9097e11559c' clicked.
+07:08:47 [INFO] - Trying to execute command 'package.json'. Command info {"commandId":"sap.ux.applicationModeler.configExplorer.showFile","argument":{"uri":{"$mid":1,"path":"/home/user/project1/package.json","scheme":"file"}}}

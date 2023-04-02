@@ -1,0 +1,48 @@
+2023-03-29 07:01:49.001 [error] No bundle location found for extension vscode.emmet
+2023-03-29 07:01:49.001 [error] No bundle location found for extension SAPOSS.app-studio-toolkit
+2023-03-29 07:01:49.002 [error] No bundle location found for extension SAPOSS.code-snippet
+2023-03-29 07:01:49.002 [error] No bundle location found for extension SAPSE.fs-usage-popup-vscode-extensions
+2023-03-29 07:01:49.002 [error] No bundle location found for extension vscode.git-base
+2023-03-29 07:01:49.002 [error] No bundle location found for extension donjayamanne.githistory
+2023-03-29 07:01:49.002 [error] No bundle location found for extension eamodio.gitlens
+2023-03-29 07:01:49.508 [error] No bundle location found for extension SAPSE.lcap-task-contrib
+2023-03-29 07:01:49.508 [error] No bundle location found for extension SAP.vscode-watt-framework-extension
+2023-03-29 07:01:49.508 [error] No bundle location found for extension SAPSE.sap-ux-application-modeler-extension
+2023-03-29 07:01:49.508 [error] No bundle location found for extension SAPSE.sap-ux-help-extension
+2023-03-29 07:01:49.509 [error] No bundle location found for extension SAPSE.sap-ux-service-modeler-extension
+2023-03-29 07:01:49.509 [error] No bundle location found for extension SAPOS.yeoman-ui
+2023-03-29 07:01:49.509 [error] No bundle location found for extension SAP.vscode-bas-extension
+2023-03-29 07:01:49.509 [error] No bundle location found for extension SAPOSS.vscode-dependencies-validation
+2023-03-29 07:01:49.509 [error] No bundle location found for extension SAPOSS.vscode-deps-upgrade-tool
+2023-03-29 07:01:49.509 [error] No bundle location found for extension SAPSE.vscode-node-version-check
+2023-03-29 07:01:56.585 [error] No bundle location found for extension SAPSE.vscode-tasks-explorer-tasks-panel
+2023-03-29 07:01:56.585 [error] No bundle location found for extension SAP.vscode-wing-cf-tools
+2023-03-29 07:01:56.585 [error] No bundle location found for extension SAPSE.vscode-wing-expose-router-ports
+2023-03-29 07:01:56.585 [error] No bundle location found for extension SAP.vscode-wing-gerrit
+2023-03-29 07:01:56.585 [error] No bundle location found for extension SAP.vscode-wing-run-config
+2023-03-29 07:01:56.585 [error] No bundle location found for extension SAP.vscode-wing-welcome-screen
+2023-03-29 07:01:57.177 [error] Error: Unable to write to Workspace Settings because no workspace is opened. Please open a workspace first and try again.
+    at S.y (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:2107:51344)
+    at S.E (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:2107:54261)
+    at S.n (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:2107:48373)
+    at Object.factory (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:2107:48273)
+    at A.h (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:87:15859)
+    at https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:87:15771
+    at new Promise (<anonymous>)
+    at A.queue (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:87:15713)
+    at S.writeConfiguration (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:2107:48242)
+    at x.Hb (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:2107:74208)
+2023-03-29 07:01:57.186 [error] No bundle location found for extension SAPOSS.guided-development
+2023-03-29 07:01:57.186 [error] No bundle location found for extension vscode.git
+2023-03-29 07:01:57.873 [error] No bundle location found for extension SAP.mta-editor-vscode
+2023-03-29 07:01:57.873 [error] No bundle location found for extension SAP.sap-bas-vscode-w5g
+2023-03-29 07:01:57.873 [error] No bundle location found for extension SAP.ui5-visual-editor-vscode
+2023-03-29 07:01:57.873 [error] No bundle location found for extension SAP.vscode-bas-extensibility
+2023-03-29 07:01:57.873 [error] No bundle location found for extension SAPSE.vscode-mta-tools
+2023-03-29 07:01:58.378 [error] No bundle location found for extension SAPSE.vscode-wing-ui5-run
+2023-03-29 07:01:59.017 [error] No bundle location found for extension SAPSE.cicd-extension
+2023-03-29 07:01:59.190 [error] No bundle location found for extension vscode.debug-auto-launch
+2023-03-29 07:01:59.248 [error] No bundle location found for extension vscode.merge-conflict
+2023-03-29 07:01:59.817 [error] Error: command 'undefined' not found
+    at b.k (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:1390:2620)
+    at b.executeCommand (https://theia-workspaces-ws-bsp2s.us10.trial.applicationstudio.cloud.sap/oss-d7be2f0c36547d4c0cae1588260595f3307bcdad/static/out/vs/workbench/workbench.web.main.js:1390:2536)

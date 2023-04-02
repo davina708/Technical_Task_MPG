@@ -1,0 +1,52 @@
+npm config set registry https://registry.npmjs.org
+npm config set @sap-ux-rel:registry https://common.repositories.cloud.sap/artifactory/api/npm/deploy.milestones.npm/
+npm config set @bas-dev:registry https://common.repositories.cloud.sap/api/npm/devx-npm-live/
+npm config set @devx-wing:registry https://common.repositories.cloud.sap/api/npm/devx-npm-live/
+npm config set @sapdmz:registry https://common.repositories.cloud.sap/artifactory/api/npm/build.releases.npm/
+npm config set @adaptation-project:registry https://registry.npmjs.org/
+npm config set @sap-lcnc:registry https://common.repositories.cloud.sap/api/npm/deploy.releases.npm/
+npm config set @ext-dptvsc-npm-vscode:registry https://common.repositories.cloud.sap/api/npm/deploy.releases.npm/
+npm config set @ext-dptvsc-npm-dev:registry https://common.repositories.cloud.sap/artifactory/api/npm/lcapextension/
+npm config set @artifact-management:registry https://npmjs.com/package/artifact-management/
+Total <npm configuration> time: 5.45 seconds
+pnpm add -g --global-dir /extbin/globals/pnpm --global-bin-dir /extbin/globals/pnpm/bin --cache-dir /local/pnpm/.cache --config.updateNotifier=false --loglevel=warn @sap/generator-fiori@1.9.2 @sap/adp-common@0.2.25 @sap/adp-cli@0.2.25 @sap/generator-adaptation-project@0.2.25 @ext-dptvsc-npm-dev/generator-cicd@1.15.0-5 @sap/artifact-management@1.20.0
+Total <install CLI modules> time: 0.00 seconds
+ WARN  deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+Total <download *.vsix> time: 6.05 seconds
+Packages are hard linked from the content-addressable store to the virtual store.
+  Content-addressable store is at: /extbin/.pnpm-store/v3
+  Virtual store is at:             .pnpm
+.../node_modules/fast-xml-parser postinstall$ node tasks/postinstall.js || exit 0
+.../node_modules/keytar install$ prebuild-install || npm run build
+.../node_modules/fast-xml-parser postinstall: Love fast-xml-parser? Check https://amitkumargupta.work for more projects and contribution.
+.../node_modules/fast-xml-parser postinstall: Done
+.../node_modules/keytar install: Done
+ WARN  @sap/generator-fiori has no binaries
+ WARN  @sap/adp-common has no binaries
+ WARN  @sap/generator-adaptation-project has no binaries
+ WARN  @ext-dptvsc-npm-dev/generator-cicd has no binaries
+
+/extbin/globals/pnpm/5:
++ @ext-dptvsc-npm-dev/generator-cicd 1.15.0-5
++ @sap/adp-cli 0.2.25
++ @sap/adp-common 0.2.25
++ @sap/artifact-management 1.20.0 (1.20.2 is available)
++ @sap/generator-adaptation-project 0.2.25
++ @sap/generator-fiori 1.9.2
+
+Done in 7.7s
+/usr/bin/npm install --prefix /extbin/npm/globals -g @sapdmz/generator-html5-project@0.1.0 @sapdmz/generator-vue-module@0.0.27 @sapdmz/generator-html5-module@0.0.18 @sapdmz/generator-reactjs-module@0.0.22
+npm notice [SECURITY] lodash has the following vulnerability: 1 high. Go here for more details: https://github.com/advisories?query=lodash - Run `npm i npm@latest -g` to upgrade your npm version, and then `npm audit` to get more info.
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+npm WARN deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated streamroller@2.2.3: 2.x is no longer supported. Please upgrade to 3.x or higher.
+npm WARN deprecated date-format@2.1.0: 2.x is no longer supported. Please upgrade to 4.x or higher.
+npm WARN deprecated request@2.88.0: request has been deprecated, see https://github.com/request/request/issues/3142
+npm notice [SECURITY] ejs has the following vulnerability: 1 critical. Go here for more details: https://github.com/advisories?query=ejs - Run `npm i npm@latest -g` to upgrade your npm version, and then `npm audit` to get more info.
+npm notice [SECURITY] glob-parent has the following vulnerability: 1 high. Go here for more details: https://github.com/advisories?query=glob-parent - Run `npm i npm@latest -g` to upgrade your npm version, and then `npm audit` to get more info.
+npm WARN deprecated source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated
+npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
